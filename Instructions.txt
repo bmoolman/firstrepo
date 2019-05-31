@@ -1,5 +1,5 @@
 git init %FOLDER NAME%
 git status
-git add %FILENAME% or . for all unadded files
+git add %FILENAME% or . for all changed files
 git commit -m "%MESSAGE% or if git commit and message via editor
 
